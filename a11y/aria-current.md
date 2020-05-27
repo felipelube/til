@@ -8,7 +8,8 @@ The `aria-current` attribute can be used to indicate that an element is in a rel
 <li><a href="/contact" class="contact">Contact</a></li>
 </ul>
 ```
-This is better than using only css classes, since the aria attribute is recognized by screen readers.
+- This is better than using only css classes, since the aria attribute is recognized by screen readers
+- The `aria-source` can be used to indicate types of relashionship other than `page`, see the link bellow
 
 More info: https://www.digitala11y.com/aria-current-state/
 
